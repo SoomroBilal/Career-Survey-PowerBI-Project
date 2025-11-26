@@ -1,4 +1,4 @@
-# Data Analytics Dashboard Project
+# Data Career Survey PowerBI Dashboard Project
 This project showcases a **Power BI dashboard** analyzing survey data related to data professionals.
 
 ## Dataset
